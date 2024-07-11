@@ -1,4 +1,4 @@
-## You just reached Rebakure's repo👋
+## You just reached Rebakure👋
 
 - 🔭 I’m currently working on my portfolio in my freetimes.
 - 🌱 I’m currently learning on React ecosystem
