@@ -1,5 +1,5 @@
 # You just reached Rebakure👋
-> You can call me Kevin.
+> You can call me Kevin
 
 ## 🔥Skills
 
@@ -15,4 +15,5 @@
 ## 💪 Other things I find interesting
 - 🔭 I’m working on my portfolio in my freetimes. 
 - 📫 How to reach me: kevinrebakure@gmail.com
-- 😂 Fun fact: In movies, I like complicated characters.
+- 😂 Fun fact: In movies, I like complicated character
+- I can also play piano
