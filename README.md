@@ -16,4 +16,4 @@
 - 🔭 I’m working on my portfolio in my freetimes. 
 - 📫 How to reach me: kevinrebakure@gmail.com
 - 😂 Fun fact: In movies, I like complicated character
-- I can also play piano
+- 🎹 I can also play piano
