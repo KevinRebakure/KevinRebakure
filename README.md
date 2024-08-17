@@ -1,7 +1,6 @@
 # You just reached Rebakure👋
 
-> [!NOTE]
-> These are the skills and tools in my arsenal.
+## 🔥Skills
 
 |💻Front-End development | 🚥Back-End development | ⌛Tools I use |
 |--------------------|----------------------|------------|
