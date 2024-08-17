@@ -2,7 +2,7 @@
 
 ## Skills
 
-| 💻Front-End development | 🚥Back-End development | ⌛Tools I use |
+|💻Front-End development | 🚥Back-End development | ⌛Tools I use |
 |--------------------|----------------------|------------|
 |React - Redux, React Router, Next.js | Node.js | VS code |
 | Figma, TailwindCSS | MongoDB | Git, Postman |
