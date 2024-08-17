@@ -3,12 +3,14 @@
 ## Skills
 ### 💻Front-End development
 
-1. **I code in React** | Redux, React Router, Next.js
-2. **I can work with designs with** Figma | TailwindCSS 
+1. **I code in** -- React | Redux, React Router, Next.js
+2. **I can work with designs with** -- Figma | TailwindCSS 
 ### 🧑‍💻Back-End development
-1. Node.js  
+- Node.js
+- MongoDB
 ### ⚙️Tools
 - VS code
+- Git
 - Postman
   
 ## 🌱 I’m currently learning
