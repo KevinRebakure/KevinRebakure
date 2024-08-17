@@ -8,7 +8,7 @@
 | Figma, TailwindCSS | MongoDB | Git, Postman |
   
 ## 🌱 I’m currently learning
-- More on React ecosystem | Redux, React Router
+- More on React ecosystem
 - Enterprise software development
 
 ## 💪 Other things I find interesting
