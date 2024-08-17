@@ -2,6 +2,7 @@
 
 > [!SKILLS]
 > These are the skills and tools in my arsenal.
+
 |💻Front-End development | 🚥Back-End development | ⌛Tools I use |
 |--------------------|----------------------|------------|
 |React - Redux, React Router, Next.js | Node.js | VS code |
