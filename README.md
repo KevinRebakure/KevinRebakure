@@ -5,7 +5,7 @@
 
 |💻Front-End development | 🚥Back-End development | ⌛Tools I use |
 |--------------------|----------------------|------------|
-|React - Redux, React Router, Next.js | Node.js, Express.js | VS code |
+|React - Redux, React Router, Next.js, React Native | Node.js, Express.js | VS code |
 | Figma, TailwindCSS | MongoDB, Firebase, Appwrite | Git |
   
 ## 🌱 I’m currently learning
