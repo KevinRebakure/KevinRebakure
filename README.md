@@ -1,5 +1,4 @@
 # You just reached Rebakure👋
-> You can call me Kevin
 
 ## 🔥Skills
 
