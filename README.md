@@ -7,9 +7,9 @@
 |React - Redux, React Router, Next.js, React Native | Node.js, Express.js, NestJS | TypeScript, JavaScript |
 | Figma, TailwindCSS | MongoDB | Git, Docker, Jest |
   
-## 🌱 I’m currently learning
-- More on React ecosystem
-- Enterprise software development
+## 🌱 I’m currently 
+- Exploring NextJS
+- Training on enterprise level software development
 
 ## 💪 Other things I find interesting
 - 📫 How to reach me: kevinrebakure@gmail.com
