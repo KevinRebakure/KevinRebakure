@@ -5,7 +5,7 @@
 |💻Front-End development | 🚥Back-End development | ⌛Tools I use |
 |--------------------|----------------------|------------|
 |React - Redux, React Router, Next.js, React Native | Node.js, Express.js, NestJS | TypeScript, JavaScript |
-| Figma, TailwindCSS | MongoDB | Git, Docker, Jest |
+| Figma, TailwindCSS | MongoDB, PostgreSQL | Git, Docker, Jest |
   
 ## 🌱 I’m currently 
 - Exploring NextJS
