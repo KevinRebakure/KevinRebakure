@@ -13,6 +13,10 @@
 - Training on enterprise level software development
 
 ## 💪 Other things I find interesting
-- 📫 How to reach me: kevinrebakure@gmail.com
+
 - 😂 Fun fact: In movies, I like complicated characters
 - 🎹 I love music by heart ❤️ Ask me to play something for you on guitar 🎸 or piano 🎹
+
+## Contact me:
+
+- 📫 I respond quick here on: kevinrebakure@gmail.com
