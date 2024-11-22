@@ -17,6 +17,6 @@
 - 😂 Fun fact: In movies, I like complicated characters
 - 🎹 I love music by heart ❤️ Ask me to play something for you on guitar 🎸 or piano 🎹
 
-## Contact me:
+## ✉️ Contact me:
 
 - 📫 I respond quick here on: kevinrebakure@gmail.com
