@@ -14,7 +14,7 @@
 
 ## 💪 Other things I find interesting
 
-- 😂 Fun fact: In movies, I like complicated characters
+- 😂 Fun fact: I'm listening to Spotify
 - 🎹 I love music by heart ❤️ Ask me to play something for you on guitar 🎸 or piano 🎹
 
 ## ✉️ Contact me:
