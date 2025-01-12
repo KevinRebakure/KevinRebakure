@@ -8,9 +8,7 @@
 | Figma, TailwindCSS | MongoDB, PostgreSQL | Git, Docker, Jest |
   
 ## 🌱 I’m currently 
-- Exploring NextJS as a production level front-end framework
-- Exploring NestJS as a production level back-end framework
-- Training on enterprise level software development
+- Learning Advanced TypeScript
 
 ## 💪 Other things I find interesting
 
