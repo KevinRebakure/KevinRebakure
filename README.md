@@ -8,13 +8,13 @@
 | Figma, TailwindCSS | MongoDB, PostgreSQL | Git, Docker, Jest |
   
 ## 🌱 I’m currently 
-- Learning Advanced TypeScript
+- Learning on "Advanced TypeScript Concepts"
 
-## 💪 Other things I find interesting
+## 😂 Fun fact: I'm listening to Spotify...
 
-- 😂 Fun fact: I'm listening to Spotify...
-- 🎹 I love music by heart ❤️ Ask me to play something for you on guitar 🎸 or piano 🎹
+- Ask me to play something for you on guitar 🎸
 
 ## ✉️ Contact me:
 
-- 📫 I respond quick here on: kevinrebakure@gmail.com
+- kevinrebakure@gmail.com
+- Text me on LinkedIn [Kevin Rebakure](https://www.linkedin.com/in/kevin-rebakure-91063a301/)
