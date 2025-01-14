@@ -12,7 +12,7 @@
 
 ## 😂 Fun fact: I'm listening to Spotify...
 
-- Ask me to play something for you on guitar 🎸
+- I can play something for you on guitar 🎸
 
 ## ✉️ Contact me:
 
