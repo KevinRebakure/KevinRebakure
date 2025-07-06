@@ -1,7 +1,7 @@
 # Look who showed up!😀
 
-## 🚀 Let's connect ... I'm Rebakure. Call me Kevin👋:
-
+## I'm Rebakure. Call me Kevin👋:
+🚀 Let's connect ... 
 - kevinrebakure@gmail.com
 - LinkedIn [Kevin Rebakure](https://www.linkedin.com/in/kevin-rebakure-91063a301/)
 
