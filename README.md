@@ -37,6 +37,6 @@ class IBuildGoodSoftware:
     def have_fun(self):
         return [*self.hobbies, *self.productivity]
 
-    def i_hear_a_lot_of_noise_with_ai(self):
+    def exploring_ai(self):
         return [*self.ai]
 ```
