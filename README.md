@@ -18,7 +18,7 @@ class IBuildGoodSoftware:
         self.build_and_ship_fast = ['Appwrite']
         self.languages = ['TypeScript', 'JavaScript', 'Python']
         self.hobbies = ['Guitar']
-        self.nerdy = ['I read docs for curiosity']
+        self.nerdy = ['I read docs for fun']
         self.ai = ['Claude', 'ChatGPT', 'WindSurf']
         self.productivity = ['Notion', 'Spotify']
 
