@@ -5,21 +5,17 @@
 - kevinrebakure@gmail.com
 - LinkedIn [Kevin Rebakure](https://www.linkedin.com/in/kevin-rebakure-91063a301/)
 
+## ✨ I love what I do
+
 ```python
 class IBuildGoodSoftware:
     def __init__(self):
         self.front_end = ['NextJS', 'React', 'React Native']
         self.design = ['Figma', 'TailwindCSS']
-        self.these_comes_in_handy_on_frontend = [
-            'TailwindCSS',
-            'React Router',
-            'Redux | Zustand',
-        ]
-        self.back_end = ['NestJs']
-        self.get_the_data = ['PostgresSQL', 'MongoDB', 'Prisma | TypeORM']
+        self.back_end = ['Express.js', 'NestJs']
+        self.data = ['MySQL', 'PostgreSQL', 'MongoDB']
         self.cant_survive_without_these = ['Git', 'Docker']
-        self.bullet_proof_software = ['Jest']
-        self.my_fav = ['Appwrite']
+        self.build_and_ship_fast = ['Appwrite']
         self.languages = ['TypeScript', 'JavaScript', 'Python']
         self.hobbies = ['Guitar']
         self.nerdy = ['I read docs for curiosity']
@@ -30,11 +26,9 @@ class IBuildGoodSoftware:
         return [
             *self.front_end,
             *self.design,
-            *self.these_comes_in_handy_on_frontend,
             *self.back_end,
-            *self.get_the_data,
+            *self.data,
             *self.cant_survive_without_these,
-            *self.bullet_proof_software,
             *self.my_fav,
             *self.nerdy,
             *self.languages,
