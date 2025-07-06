@@ -20,7 +20,7 @@ class IBuildGoodSoftware:
         self.hobbies = ['Guitar']
         self.nerdy = ['I read docs for fun']
         self.ai = ['Claude', 'ChatGPT', 'WindSurf']
-        self.productivity = ['Notion', 'Spotify']
+        self.productivity = ['Notion', 'Spotify', 'Healthy rest']
 
     def work_with_a_good_developer(self):
         return [
