@@ -1,4 +1,4 @@
-# Look who showed up!😀
+# Ohhh, look who showed up!😀
 
 ## I'm Rebakure. Call me Kevin👋:
 🚀 Let's connect ... 
