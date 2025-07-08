@@ -21,22 +21,4 @@ class IBuildGoodSoftware:
         self.nerdy = ['I read docs for fun']
         self.ai = ['Claude', 'ChatGPT', 'WindSurf']
         self.productivity = ['Notion', 'Spotify', 'Healthy rest']
-
-    def work_with_a_good_developer(self):
-        return [
-            *self.front_end,
-            *self.design,
-            *self.back_end,
-            *self.data,
-            *self.cant_survive_without_these,
-            *self.my_fav,
-            *self.nerdy,
-            *self.languages,
-        ]
-
-    def have_fun(self):
-        return [*self.hobbies, *self.productivity]
-
-    def exploring_ai(self):
-        return [*self.ai]
 ```
