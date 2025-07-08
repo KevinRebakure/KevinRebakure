@@ -1,8 +1,8 @@
 # Ohhh, look who showed up!😀
 
 ## I'm Rebakure.👋
-🚀 Let's connect ... 
-- kevinrebakure@gmail.com
+🚀  Let's connect
+- Email me at kevinrebakure@gmail.com
 - LinkedIn [Kevin Rebakure](https://www.linkedin.com/in/kevin-rebakure-91063a301/)
 
 ```python
