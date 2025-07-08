@@ -5,8 +5,6 @@
 - kevinrebakure@gmail.com
 - LinkedIn [Kevin Rebakure](https://www.linkedin.com/in/kevin-rebakure-91063a301/)
 
-## ✨ I love what I do
-
 ```python
 class IBuildGoodSoftware:
     def __init__(self):
