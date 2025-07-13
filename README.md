@@ -8,10 +8,10 @@
 ```python
 class IBuildGoodSoftware:
     def __init__(self):
-        self.front_end = ['NextJS', 'React', 'React Native']
-        self.design = ['Figma', 'TailwindCSS']
+        self.i_speak_in = ['TypeScript', 'JavaScript', 'Python']
+        self.front_end = ['NextJS', 'React Native']
+        self.design = ['Figma']
         self.back_end = ['Express.js', 'NestJs']
         self.data = ['MySQL', 'PostgreSQL', 'MongoDB']
-        self.languages = ['TypeScript', 'JavaScript', 'Python']
         self.❤️=['Guitar']
 ```
