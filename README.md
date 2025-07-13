@@ -11,7 +11,7 @@ class IBuildGoodSoftware:
         self.i_speak_in = ['TypeScript', 'JavaScript', 'Python']
         self.front_end = ['NextJS', 'React Native']
         self.design = ['Figma']
-        self.back_end = ['Express.js', 'NestJs']
+        self.back_end = ['Express.js', 'NestJS']
         self.data = ['MySQL', 'PostgreSQL', 'MongoDB']
         self.❤️=['Guitar']
 ```
