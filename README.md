@@ -9,7 +9,7 @@
 class IBuildGoodSoftware:
     def __init__(self):
         self.i_speak_in = ['TypeScript', 'JavaScript', 'Python']
-        self.front_end = ['NextJS', 'React Native']
+        self.front_end = ['NextJS', 'React', 'React Native']
         self.design = ['Figma']
         self.back_end = ['Express.js', 'NestJS']
         self.data = ['MySQL', 'PostgreSQL', 'MongoDB']
